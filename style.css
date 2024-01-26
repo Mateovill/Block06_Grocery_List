@@ -1,0 +1,57 @@
+#header {
+    color: rgb(5, 68, 244);
+    font-size: 40px;
+}
+#pantry_items {
+    margin: 50px 30px 10px 30px;
+    padding: 5px 5px;
+    background-color: darksalmon;
+    border: 5px solid #000;
+    width: 550px;
+    font-size: 30px;
+    display: flex; justify-content: center;
+    color: sienna;
+}
+#canned {
+    margin: 50px 30px 10px 30px;
+    background-color: bisque;
+    border: 5px solid #000;
+    padding-bottom: 20px; padding-right: 45px;
+   display: inline-block; 
+   font-size: 25px;
+}
+#dry_goods {
+    margin: 50px 30px 10px 30px;
+    background-color: blanchedalmond;
+    border: 5px solid #000;
+    padding-bottom: 20px; padding-right: 30px; 
+    display: inline-block; 
+    font-size: 25px;
+
+}
+.square {
+    list-style-type: square;
+    margin: 50px 30px 10px 30px;
+    background-color: blanchedalmond;
+    border: 5px solid #000;
+    padding-bottom: 20px; padding-right: 30px;
+    font-size: 25px;
+    display: inline-block; 
+}
+#freezer_items {
+    margin: 50px 30px 10px 30px;
+    padding: 5px 5px;
+    background-color: darksalmon;
+    border: 5px solid #000;
+    width: 550px;
+    font-size: 30px;
+    display: flex; justify-content: center; 
+    color: sienna;  
+}
+#pantry {
+    width: 250px; height: 250px;
+    padding: 15px 20px;
+}
+#freezer {
+    padding: 15px 20px;
+}
